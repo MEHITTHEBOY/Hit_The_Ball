@@ -27,5 +27,3 @@ A simple desktop game built using **Java AWT** where the player tries to hit a m
 - **Java Event Handling**
 
 ---
-
-## 📂 Project Structure
